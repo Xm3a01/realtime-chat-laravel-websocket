@@ -1,14 +1,13 @@
 # realtime laravel chat
 
 ## tools
-- **Websocket
-- **Vuejs
-- **Laravel Echo
+- ** Websocket
+- ** Vuejs
+- ** Laravel Echo
 
 Laravel Echo
 
-``php
+```php
 
   Window.Echo(Channel)
-
-``
+```
