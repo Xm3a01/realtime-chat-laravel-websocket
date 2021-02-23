@@ -1,11 +1,10 @@
 # realtime laravel chat
 
-## tools
 - **Websocket**
 - **Vuejs**
 - **Laravel Echo**
 
-Laravel Echo
+## Laravel Echo
 
 ```php
 
